@@ -1,0 +1,14 @@
+# ignore text files
+*.log
+*.txt
+*.vsc
+
+# ignore folders
+my_env/
+images/
+
+# ignore other files
+*.java
+
+# ipynb checkpoints
+.ipynb_checkpoints/
